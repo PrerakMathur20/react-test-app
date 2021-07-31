@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
+	"name": "Prerak Mathur",
+	"email": "whytho@gmail.com",
 	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
+	"city": "Jaipur",
+	"state": "Rajasthan",
 	"country": "India",
-	"organization": "Company 1",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+	"organization": "A-pal",
+	"jobProfile": "Student",
+	"additionalInfo": "Smort Boi"
 }
