@@ -2,6 +2,7 @@
   "name": "simple-reactjs-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://PrerakMathur20.github.io/react-test-app",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.1",
