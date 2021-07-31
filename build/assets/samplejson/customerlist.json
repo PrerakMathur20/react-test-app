@@ -1,7 +1,7 @@
 [{
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
+	"name": "Prerak Mathur",
+	"email": "whytho@gmail.com",
 	"phone": "123456789"
 }, {
 	"id": 2,
@@ -10,7 +10,7 @@
 	"phone": "987654321"
 }, {
 	"id": 3,
-	"name": "Tyrion",
-	"email": "tyrion@test.com",
-	"phone": "123412345"
+	"name": "Santa",
+	"email": "merry@christmas.com",
+	"phone": "3216549860"
 }]
